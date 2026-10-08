@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150200775493",
+    "project_id": "kode-12f2a",
+    "storage_bucket": "kode-12f2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150200775493:android:1b89b23e5579113a8e042c",
+        "android_client_info": {
+          "package_name": "cr.una.delta.frontend_kode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBao-rzEE9dt0Gf3izFfYfjHeyG0Qh4Qg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150200775493:android:4c03be7985bf76138e042c",
+        "android_client_info": {
+          "package_name": "kode.org"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBao-rzEE9dt0Gf3izFfYfjHeyG0Qh4Qg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
